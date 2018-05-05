@@ -1,9 +1,9 @@
 ## 李天锋简历
 
 ### 基本信息
-性别：男  年龄：35  学校： 中北大学  专业： 网络技术与信息处理
+性别：男      年龄：35      学校： 中北大学      专业： 网络技术与信息处理
 
-学历：本科  手机：159 2205 0233  E-mail: ltf566@163.com
+学历：本科      手机：159 2205 0233      E-mail: ltf566@163.com
 
 ### 教育背景
 2002.7 - 2005.7 中北大学 网络技术与信息处理
@@ -28,9 +28,28 @@
 > 负责开发运维和数据库管理平台
 
 * 项目 1:    虚拟化管理平台开发
+
 ** 设计和实现了 web 前端页面
+
 ** 完成web service 部分开发
+
 ** 通过web service 打通与 vcenter 交互，实现虚拟机和datacenter的控制管理
+
+* 项目 2: 负责公司统一流量接入系统开发
+
+** 设计并开发了流量管理端 （web service 部分)
+
+** 协助前端完成页面开发
+
+** 收集公司针对统一流量分配的需求，讨论技术架构，并监督接入端开发 （openresty, lua开发)
+
+* 项目 3：私有云系统搭建和功能开发
+
+** 
+
+** 
+
+** 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
