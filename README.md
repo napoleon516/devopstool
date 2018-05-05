@@ -1,18 +1,29 @@
 ## 李天锋简历
+
 #### 基本信息
-> 性别：男
+性别：男  年龄：35  学校： 中北大学  专业： 网络技术与信息处理
 
-年龄：35
+学历：本科  手机：159 2205 0233  E-mail: ltf566@163.com
 
-学校： 中北大学
+#### 教育背景
+2002.7 - 2005.7 中北大学 网络技术与信息处理
 
-专业： 网络技术与信息处理
+### 职业技能
+**语言:** Python/Shell/Javascript/php
+**Linxu 开发: ** 运维自动化平台开发/后端应用程序开发
+**Linux 系统管理: ** Ansible / Shell / AWK /Zabbix /Nagios
+**数据库:** MySQL / Mongodb /PostgreSQL / SQLite / Etcd / Redis / Oracle
+**WEB:** Python / Django,Flask,Bottle,Web.py / Javascript / Ajax /Bootstrap
+**项目管理:** 需求分析 / 计划制定 / 任务分配 / 进度跟踪
+**英语:** 听说读写优， 曾外派在美国短期工作
 
-学历：本科
-
-手机：159 2205 0233
-
-E-mail: ltf566@163.com,ucardevops@gmail.com
+### 项目经验：
+#### 2015.1 - 至今    神州优车集团      运维开发工程师
+> 负责开发运维和数据库管理平台
+* 项目 1:    虚拟化管理平台开发
+** 设计和实现了 web 前端页面
+** 完成web service 部分开发
+** 通过web service 打通与 vcenter 交互，实现虚拟机和datacenter的控制管理
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
