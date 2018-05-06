@@ -11,9 +11,9 @@
 ### 职业技能
 **语言:** Python/Shell/Javascript/php
 
-**Linxu 开发: ** 运维自动化平台开发/后端应用程序开发
+**Linxu 开发:** 运维自动化平台开发/后端应用程序开发
 
-**Linux 系统管理: ** Ansible / Shell / AWK /Zabbix /Nagios
+**Linux 系统管理:** Ansible / Shell / AWK /Zabbix /Nagios
 
 **数据库:** MySQL / Mongodb /PostgreSQL / SQLite / Etcd / Redis / Oracle
 
@@ -50,6 +50,7 @@
     * 协助运维开发部署脚本或者监控脚本，部署脚本基于ansible, 监控脚本主要针对nagios 或者zabbix
     * 负责部门ETL 数据采集系统中kafka ,logstash等中间件的维护,开发类似kibana 的搜索界面
     * 开发基于Gitlab的自动化测试系统 – 结合Jenkins job 实现
+    
 #### 2010.11 - 2014.12   Comtech TeleCommunication System, Inc  软件工程师
 > 职责: Server 端导航地图相关产品设计与开发
 
@@ -70,6 +71,7 @@
 * 其他:
     * 协助开发并维护服务端测试平台，此平台集成了后端的unit test， 功能测试，如Geocode，Revers geocode 测试，导航测试等
     * 负责功能的上线部署，编写自动化部署脚本
+    
 #### 2008.9 - 2010.10  天津博信投资咨询有限公司  开发和实施工程师
 > 职责: 负责公司Web 开发和服务器的维护
 
@@ -78,7 +80,9 @@
 * REsponsibility 2: 公司线上服务器部署和维护
     * 完成网站的功能的迭代上线
     * 负责MySQL 数据库的日常维护
+    
 #### 2008 年以前
-> 在一家小公司做web 开发，期间前端和后端都参与，PS 切图，html， css 样式定制等，后端的功能开发集中在基本的网站功能上。后端语言用到ASP 和PHP.
+> 在一家小公司做web 开发，期间前端和后端都参与，PS 切图，html， css 样式定制等，后端的功能开发集中在基本的网站功能上。后端语言用到ASP 和PHP
+
 ### 自我评价：
 > 自学能力和团队意识强，善于钻研，专注，坚持。专注于Linux平台的软件开发，对Linux相关技术有着浓厚的兴趣和激情。
