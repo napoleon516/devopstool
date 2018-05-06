@@ -12,7 +12,7 @@ E-mail: ltf566@163.com
 2002.7 - 2005.7 中北大学 网络技术与信息处理
 
 ### 职业技能
-**语言:** Python/Shell/Javascript/php
+**语言:** Python / Shell / Javascript / php
 
 **Linxu 开发:** 运维自动化平台开发/后端应用程序开发
 
@@ -34,12 +34,10 @@ E-mail: ltf566@163.com
     * 设计和实现了 web 前端页面
     * 完成web service 部分开发
     * 通过web service 打通与 vcenter 交互，实现虚拟机和datacenter的控制管理
-
 * 项目 2: 负责公司统一流量接入系统开发
     * 设计并开发了流量管理端 （web service 部分)
     * 协助前端完成页面开发
     * 收集公司针对统一流量分配的需求，讨论技术架构，并监督接入端开发 （openresty, lua开发)
-
 * 项目 3: 私有云系统搭建和功能开发
     * 参与基于openstack 的私有云搭建
     * 设计并实现了虚拟机的跨平台自动化迁移 （虚拟机 > 2000台）
