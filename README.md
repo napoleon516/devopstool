@@ -78,7 +78,7 @@ E-mail: ltf566@163.com
 
 * Responsiblity 1: 天津第一家外文杂志网站Tianjin Plus Magazine 的后端功能开发
     * 负责后端开发和维护，应用PHP 实现, 网址: [http://www.tianjinplus.com/tjplus/](http://www.tianjinplus.com/tjplus/)
-* REsponsibility 2: 公司线上服务器部署和维护
+* Responsibility 2: 公司线上服务器部署和维护
     * 完成网站的功能的迭代上线
     * 负责MySQL 数据库的日常维护
     
